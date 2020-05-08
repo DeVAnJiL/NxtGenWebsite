@@ -43,7 +43,7 @@
      font-size: 22px 
 }
  h3 {
-     font-size: 18px 
+     font-size: 26px 
 }
  h4 {
      font-size: 21px;
@@ -1127,6 +1127,7 @@ LOADER
 /*------------------------------------------------------------------ Contact -------------------------------------------------------------------*/
  .contact-box{
      padding: 70px 0px;
+     background-color: white;
 }
  .left-contact h2{
      font-size: 22px;
@@ -1169,9 +1170,10 @@ LOADER
      color: #57cef8;
 }
  .contact-block{
+     background-color: white;
 }
  .contact-block .form-group .form-control {
-     background: #333;
+     background: rgb(212, 205, 205);
      height: 48px;
      font-size: 14px;
      border: 0;
@@ -1426,7 +1428,7 @@ LOADER
      margin: 0 5px;
 }
  .footer_bottom {
-     background: #05223d;
+     background: #ffffff;
      padding: 15px 0;
 }
  .footer_bottom p.crp {
