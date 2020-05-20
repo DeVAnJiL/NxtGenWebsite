@@ -1,4 +1,5 @@
 
+
 body::-webkit-scrollbar {
   width: 3px;
 }
@@ -236,7 +237,7 @@ html {
     align-items: center;
     -ms-flex-pack: distribute;
     justify-content: space-around;
-    padding: 1vh;
+    
 }
 img.sponsor-img {
     width: 8rem;
@@ -251,4 +252,13 @@ img.sponsor-img {
 .eventimage {
   z-index: 1;
   box-shadow: rgba(0, 0, 0, 0.3);
+}
+
+.containerfront {
+
+  height: 70vh;
+}
+.containerphoto {
+  margin-left:10vw;
+  height:65vh;
 }

@@ -83,6 +83,7 @@
     }
      .slide_text {
          margin-top: 1px;
+         height: 300px;
     }
      .section.layout_padding h4 {
          text-align: center;
@@ -97,6 +98,8 @@
      .navbar-brand{
          margin-left: 10px;
          margin-right: 10px;
+        
+         
     }
      .top-header .navbar .navbar-collapse ul li a{
          padding: 5px 15px;
