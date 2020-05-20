@@ -262,3 +262,11 @@ img.sponsor-img {
   margin-left:10vw;
   height:65vh;
 }
+.textDes {
+  padding: 1rem;
+  width: 80%;
+}
+.containerTxet {
+  width: 100%;
+  padding: 1rem;
+}

@@ -98,9 +98,24 @@
      .navbar-brand{
          margin-left: 10px;
          margin-right: 10px;
-        
+       
          
-    }
+    
+        }
+
+.containerphoto {
+    display: flex;
+  margin-left:10vw;
+ 
+}
+.containerphoto p {
+    padding: 1rem;
+}
+
+.img-row p{
+    display: none;
+}
+
      .top-header .navbar .navbar-collapse ul li a{
          padding: 5px 15px;
     }
